@@ -1,0 +1,17 @@
+{
+    "prefix": "!",
+    "lang": "tr",
+    "serverID": "707245220214865961",
+    "welcome": {
+        "channelId": "739976704327549078",
+        "message": {
+            "success": "{user} katıldı; **{inviterName}** tarafından davet edildi\n**{inviterName}**, Şu anda **{inviteCount}** davete sahip.",
+            "unknow": "J{user} Sunucuya Nasıl Katıldığını Bulamadım ?",
+            "vanity": "{user} Sunucuya Özel URL ile katıldı!",
+            "self-invite": "{user} kendi davetiyelerini kullanarak katıldı!",
+            "valid": "<:member:993526776296898581> {user} Katıldı \n<:davet:993527924798013491> **{inviterName}** Tarafından Davet Edildi\n<:yildiz:993527867956805713> **{inviterName}** Toplam Davet Sayısı **{inviteCount}** Ulaştı\n<:duyuru:993527807646912623> Sunucu Toplam **{memberCount}** Kişi Sayısına Ulastı."
+        },
+        "isEmbed": true,
+        "color": "#27ae60"
+    }
+}
